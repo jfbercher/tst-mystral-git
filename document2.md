@@ -43,7 +43,7 @@ See [issue #1234](https://example.com/issue/1234) for details
 [bad #1234]((url))
 
 :::{tip} Bonjour
-Un texte pour tester..
+Un texte pour tester, encore..
 :::
 
 :::{exercise} Calculs simples

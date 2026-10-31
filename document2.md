@@ -43,7 +43,15 @@ See [issue #1234](https://example.com/issue/1234) for details
 [bad #1234]((url))
 
 :::{tip} Bonjour
-Un texte
+Un texte pour tester..
+:::
+
+:::{exercise} Calculs simples
+:label: simple_computations
+:enumerated: true
+Calculs simples :
+- Calculer l'intégrale $z = \int (x + 1) dx$
+- et $z = \int_0^{+\infty} \exp(-ax) dx$
 :::
 
 $$
@@ -51,6 +59,8 @@ z = \int (x + 1) dx
 $$
 
 ## Mermaid diagrams
+
+Bonjour et voici
 
 Mermaid diagrams are rendered with [Pele](https://github.com/obsidianmd/pele), enabling you to add diagrams and flowcharts to your documents.
 An overview of the Mermaid syntax is available [here](https://mermaid.js.org/intro/).
